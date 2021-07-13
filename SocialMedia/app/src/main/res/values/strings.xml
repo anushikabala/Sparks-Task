@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialMedia</string>
+    <string name="facebook_app_id">128403622747815</string>
+    <string name="fb_login_protocol_scheme">fb128403622747815</string>
+
+    <string name="server_client_id">882008353185-he401b9uhvka6gotvdios90n14qd6inv.apps.googleusercontent.com</string>
+</resources>
